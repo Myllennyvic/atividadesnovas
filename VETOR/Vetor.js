@@ -32,3 +32,9 @@ console.log(nums.length)
 for(let i = 0; i <nums.length; i++){
     console.log(nums[i])
 }
+
+//push - puxar informações 
+// exemplo - nome da array e dentro dos (o que recebe a informação)
+//pop - remover o ultimo da lista 
+//shift - remover o do meio 
+//splace - remover um específico 
